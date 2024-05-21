@@ -1,0 +1,34 @@
+/* *{
+    background-color: black;
+}
+
+#heading{
+    text-align: center;
+    color: green;
+}
+
+.banner{
+    color: red;
+} */
+
+div  p {
+   text-align: center;
+}
+
+
+div ul li {
+    color: rgb(14, 17, 14);
+    background-color: rgba(16, 233, 190, 0.523);
+}
+
+div h1{
+    text-align: center;
+}
+
+
+.back{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
